@@ -158,6 +158,7 @@ class Ward:
         Returns:
             int: Number of doctors in the ward.
         """
+        
         count = 0
         for p in self.__list_people:
             if isinstance(p, Doctor):
