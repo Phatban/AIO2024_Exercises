@@ -12,7 +12,7 @@ list để chứa danh sách của mọi người trong Ward.
         tên ward (name) và toàn bộ thông tin của từng người trong ward.
     (c) Viết count_doctor() method để đếm số lượng doctor trong ward.
     (d) Viết sort_age() method để sort mọi người trong ward theo tuổi của họ với thứ tự tăng dần.
-    (e) Viết compute_average() method để tính trung bình năm sinh của các teachers trong ward...
+    (e) Viết compute_average() method để tính trung bình năm sinh của các teachers trong ward....
 '''
 
 
