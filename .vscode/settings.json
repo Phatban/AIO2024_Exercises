@@ -1,6 +1,2 @@
 {
-    "sonarlint.connectedMode.project": {
-        "connectionId": "phatban",
-        "projectKey": "phatban_aio2024"
-    }
 }
